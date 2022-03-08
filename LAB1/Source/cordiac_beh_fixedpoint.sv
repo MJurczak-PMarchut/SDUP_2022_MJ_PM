@@ -26,10 +26,10 @@ module cordiac_beh_fixedpoint(
     /**
 * Cordic algorithm
 */
-parameter integer FXP_SCALE = 1024;
+parameter integer FXP_ScALE = 1024;
 real a = 0.0;
 real b = 0.0;
-reg signed [11:0] t_angle = (3.1416/2) * FXP_SCALE; //Input angle
+reg signed [11:0] t_angle = 0 * FXP_SCALE; //Input angle
 //Table of arctan (1/2^i)
 // Note. Table initialization below is not correct for Verilog. Select System-Verilog mode
 // in your simulator in the case of syntax errors
@@ -47,7 +47,7 @@ reg signed [11:0] atan[0:9] = {11'h324,
 //real Kn = 0.607253; //Cordic scaling factor for 10 iterations
 
 //Variables
-reg signed [11:0] cos = 1.0 * FXP_SCALE; //Initial condition
+reg signed [11:0] cos = 1 * FXP_SCALE; //Initial condition
 reg signed [11:0] sin = 0.0;
 reg signed [11:0] angle = 0.0; //Running angle
 

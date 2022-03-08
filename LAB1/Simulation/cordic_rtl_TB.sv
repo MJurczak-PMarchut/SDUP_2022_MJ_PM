@@ -26,7 +26,7 @@ module cordic_rtl_TB(
 reg clock, reset, start;
 reg [11:0] angle_in;
 wire ready_out;
-wire [11:0] sin_out, cos_out;
+wire signed [11:0] sin_out, cos_out;
 real real_cos, real_sin;
 cordic_rtl cordic( clock, reset, start, angle_in, ready_out, sin_out, cos_out);
 //Clock generator

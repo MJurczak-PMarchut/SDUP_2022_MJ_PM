@@ -98,7 +98,7 @@ begin
                     angle <= angle + atan_val;
                     cos <= cos - sin_frac;
                     sin <= cos_frac + sin;
-                    i = i +1;
+                    i = i + 1;
                     if(i < 10) state <= S3;
                     else state <= S8;
                 end

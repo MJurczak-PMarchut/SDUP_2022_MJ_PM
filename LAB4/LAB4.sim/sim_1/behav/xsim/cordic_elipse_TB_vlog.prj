@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../LAB4.srcs/sources_1/new/cordic_pipe_rtl.sv" \
+"../../../../LAB4.srcs/sources_1/new/cordic_step.sv" \
+"../../../../LAB4.srcs/sources_1/new/elipse_beh.sv" \
+"../../../../LAB4.srcs/sources_1/new/mul_Kn.sv" \
+"../../../../LAB4.srcs/sim_1/new/cordic_elipse_TB.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

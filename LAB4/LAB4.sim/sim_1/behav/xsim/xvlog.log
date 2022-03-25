@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/cordic_pipe_rtl.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cordic_pipe_rtl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/cordic_step.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cordic_step
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/elipse_beh.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module elipse_beh
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/mul_Kn.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mul_Kn
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sim_1/new/cordic_elipse_TB.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cordic_elipse_TB

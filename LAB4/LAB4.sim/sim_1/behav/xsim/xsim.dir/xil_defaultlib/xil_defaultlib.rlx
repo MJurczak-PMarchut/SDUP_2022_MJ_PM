@@ -1,0 +1,11 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sim_1/new/cordic_elipse_TB.sv,1648114325,systemVerilog,,,,cordic_elipse_TB,,,,,,,,
+D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sim_1/new/cordic_pipe_rtl_TB.sv,1648109278,systemVerilog,,,,cordic_pipe_rtl_TB,,,,,,,,
+D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/cordic_pipe_rtl.sv,1648112500,systemVerilog,,D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/cordic_step.sv,,cordic_pipe_rtl,,,,,,,,
+D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/cordic_step.sv,1648111690,systemVerilog,,D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/elipse_beh.sv,,cordic_step,,,,,,,,
+D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/elipse_beh.sv,1648115109,systemVerilog,,D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/mul_Kn.sv,,elipse_beh,,,,,,,,
+D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sources_1/new/mul_Kn.sv,1648068900,systemVerilog,,D:/studia/Systemy_Dedykowane_w_Ukladach_Programowalnych/LAB4/LAB4.srcs/sim_1/new/cordic_elipse_TB.sv,,mul_Kn,,,,,,,,
